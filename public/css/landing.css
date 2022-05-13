@@ -1,0 +1,56 @@
+
+ /* Desde aqui es mi CSS */
+ #logo{
+	width: 12rem;
+	margin-left: 6rem !important;
+	padding-left: 2rem;
+}
+.mynavlink{
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+.titulos{
+	color: #0C3DA5;
+	font-size: 3rem;
+	font-weight: bold;
+}
+#imagechefs
+{
+	width: 85rem;
+}
+.primarysection{
+	margin-top: 11rem !important;
+	width: 100% !important;
+}
+.secondsection{
+	width: 100% !important;
+}
+.botonprincipal{
+	background-color: #FF8E00;
+	border: 1px solid #FF8E00 ;
+	padding: 1.1rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	
+}
+.botonprincipal:hover{
+	background-color: #ffa63a;
+	border: 1px solid #ffa63a ;
+}
+#sectionsobre1{
+	margin-top: 2rem;
+ background-image: url('https://picsum.photos/200/300.jpg');
+}
+#sectionsobre2{
+	background-color: #114085 ;	
+	margin-top:2rem !important;	
+	color: white;
+}
+#seccionquees{
+	margin-top: 9rem !important;
+	padding-left: 7rem;
+}
+.parrafo{
+	font-size: 1.2rem;
+	
+}
