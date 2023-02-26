@@ -17,25 +17,7 @@
         </div>
     </div>
 </section>
-<section class="container-fluid secondsection">
-        <div class="row">
-            <div class="col-6"  id="sectionsobre1">
-                <img id="fotouno" src="" alt="">
-            </div>
-            <div class="col-6" id="sectionsobre2">
-                <h2>Sobre</h2>
-                <div class="row">
-                    <img src="" alt="">
-                </div>
-                <p class="">
-                ¿Qué es Misión Huascarán?
-                </p>
-                <p>
-                Somos una asociación civil sin fines de lucro que busca ayudar a personas en zonas rurales del Perú, a través de programas que integran nutrición, combatiendo sobre todo el gran problema de anemia; educación, reforzando los programas educativos y aportes tecnológicos; desarrollo económico, generando talleres y nuevas formas de empleo; salud, con el funcionamiento de dos postas médicas móviles que visitan varios poblados sin acceso a atención médica.
-                </p>
-            </div>
-        </div>
-</section>
+
 <section class="container mt-5 mb-5">
     <div class="row justify-content-center">
             <div class="col-md-4 align-self-center">
